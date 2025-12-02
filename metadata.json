@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Image Gennie",
+  "description": "A high-speed AI image editor powered by Gemini 2.5 Flash Image. Upload an image and use text prompts to edit it instantly."
+}
